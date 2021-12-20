@@ -11,7 +11,9 @@ Among total 348,657 reviews, there are 7,055 reviews which have more than 20 vot
 - There are total 3,458 5-stars reviews: 10 of them are from Vine users and 3,448 from non-Vine customers.
 - Among all the helpful reviews: 0.15% of them is from Vine users and 51.38% is from non-Vine users.
 ###### image1  
-![image1]()  
+![image1](https://github.com/kaylaisnomyname/Amazon_Vine_Analysis/blob/main/result_table.png?raw=true)   
+######  image2  
+![summary](https://github.com/kaylaisnomyname/Amazon_Vine_Analysis/blob/main/result_summary.png?raw=true) 
 
 ## Summary
 According to the results, there are 10 out of 21 Vine reviews are 5-stars, or about 48%. There are 3448 out of 6690 non-Vine users rated 5-stars, or 51.5%. In short, about half of the customers, both paid and non-paid, have rated 5 stars on their reviews. Also, among the helpful reviews, 5,240 out of 6711 are from verified purchases, about 78%. Overall, the reviews of luggage sales are considered somewhat fair.  
